@@ -1,8 +1,8 @@
 
   <body>
-    <h1>Hotel Website</h1>
+    <h1>Git-and-Github-Manual</h1>
     <p>
-      Welcome to the Hotel Website! This is a sample website project created to
+      Welcome to the Git-and-Github-Manual! This is a sample website project created to
       demonstrate the use of Git and GitHub.
     </p>
     <h2>Git and GitHub User Manual</h2>
