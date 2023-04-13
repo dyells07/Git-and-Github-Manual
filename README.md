@@ -9,16 +9,43 @@
     <h3>Git</h3>
     <p>
       Git is a version control system that allows you to keep track of changes
-      made to your project over time. Here are some basic Git commands that you
-      can use:
+      made to your project over time.
     </p>
-    <ul>
-      <li><code>git init</code>: Initializes a new Git repository in your project folder</li>
-      <li><code>git add</code>: Adds files to the staging area</li>
-      <li><code>git commit -m "commit message"</code>: Commits changes to the repository with a message describing the changes made</li>
-      <li><code>git status</code>: Displays the status of the repository, including any changes made since the last commit</li>
-      <li><code>git log</code>: Displays the commit history of the repository</li>
-    </ul>
+  	<h2>Why is Git Important?</h2>
+	<ul>
+		<li>Git allows for version control, which means developers can keep track of changes made to the code and easily revert to earlier versions if necessary.</li>
+		<li>Git enables collaboration by allowing multiple developers to work on the same codebase simultaneously.</li>
+		<li>Git reduces the risk of code conflicts by providing a clear history of changes made to the code.</li>
+	</ul>
+	<h2>Why is GitHub Important?</h2>
+	<ul>
+		<li>GitHub is a web-based hosting service that provides a platform for software development teams to store and manage their Git repositories.</li>
+		<li>GitHub allows for easy collaboration among team members by providing tools for code review and feedback.</li>
+		<li>GitHub provides a centralized location for code, making it easy for team members to access and work on the same codebase.</li>
+	</ul>
+     <h2>How to Use Git and GitHub</h2>
+  <ol>
+    <li>Clone the repository to your local machine using the following command in your terminal:<br>
+      <code>git clone https://github.com/dyells07/hotel-website.git</code></li>
+    <li>Once you have made changes to the code, add the files to the staging area using the following command:<br>
+      <code>git add &lt;filename&gt;</code></li>
+    <li>Commit the changes with a meaningful commit message using the following command:<br>
+      <code>git commit -m "Your commit message here"</code></li>
+    <li>Push the changes to the remote repository using the following command:<br>
+      <code>git push origin &lt;branch name&gt;</code></li>
+    <li>If you want to merge changes from another branch into your current branch, use the following command:<br>
+      <code>git merge &lt;branch name&gt;</code></li>
+    <li>If you want to view the commit history, use the following command:<br>
+      <code>git log</code></li>
+    <li>If you want to revert to a previous commit, use the following command:<br>
+      <code>git revert &lt;commit hash&gt;</code></li>
+    <li>If you want to switch to a different branch, use the following command:<br>
+      <code>git checkout &lt;branch name&gt;</code></li>
+    <li>If you want to create a new branch and switch to it, use the following command:<br>
+      <code>git checkout -b &lt;new branch name&gt;</code></li>
+    <li>If you want to delete a branch, use the following command:<br>
+      <code>git branch -d &lt;branch name&gt;</code></li>
+  </ol>
     <h3>GitHub</h3>
     <p>
       GitHub is a web-based hosting service for version control using Git. It
