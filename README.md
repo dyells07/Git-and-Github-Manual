@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Hotel Website</title>
-  </head>
+
   <body>
     <h1>Hotel Website</h1>
     <p>
@@ -44,6 +37,6 @@
       information, please refer to the official Git and GitHub documentation.
     </p>
   </body>
-</html>
+
 
 
