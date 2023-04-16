@@ -30,6 +30,6 @@ To push changes to the remote repository, follow these steps:
 
 ## optional not necessary
 
-1. git add README.md
-2. git commit -m "Added README.md file"
-3. git push
+1. `git add README.md`
+2. `git commit -m "Added README.md file"`
+3. `git push`
