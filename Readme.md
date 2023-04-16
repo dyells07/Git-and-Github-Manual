@@ -7,7 +7,7 @@ To clone the repository and run the project, follow these steps:
 
 1. Open a Git Bash terminal.
 2. Enter the command `git clone https://github.com/Soch-College-of-IT/NET-CENTRIC-COMPUTING-CSIT2076.git` to clone the repository.
-3. Navigate to file`cd NET-CENTRIC-COMPUTING-CSIT2076`
+3. Navigate to folder`cd NET-CENTRIC-COMPUTING-CSIT2076`
 4. Create a new folder using the command `mkdir <folder_name>`.
 5. Navigate to the new folder using the command `cd <folder_name>`.
 6. Open Visual Studio Code using the command `code .`.
