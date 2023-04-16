@@ -7,13 +7,14 @@ To clone the repository and run the project, follow these steps:
 
 1. Open a Git Bash terminal.
 2. Enter the command `git clone https://github.com/Soch-College-of-IT/NET-CENTRIC-COMPUTING-CSIT2076.git` to clone the repository.
-3. Create a new folder using the command `mkdir <folder_name>`.
-4. Navigate to the new folder using the command `cd <folder_name>`.
-5. Open Visual Studio Code using the command `code .`.
-6. Install the C# extensions if needed.
-7. In the integrated terminal, enter the command `dotnet new console` to create a new C# file.
-8. Enter the command `dotnet restore` to restore the project dependencies.
-9. Enter the command `dotnet run` to execute the program.
+3. Navigate to file`cd NET-CENTRIC-COMPUTING-CSIT2076`
+4. Create a new folder using the command `mkdir <folder_name>`.
+5. Navigate to the new folder using the command `cd <folder_name>`.
+6. Open Visual Studio Code using the command `code .`.
+7. Install the C# extensions if needed.
+8. In the integrated terminal, enter the command `dotnet new console` to create a new C# file.
+9. Enter the command `dotnet restore` to restore the project dependencies.
+10. Enter the command `dotnet run` to execute the program.
 ## Pushing Changes to the Remote Repository
 
 To push changes to the remote repository, follow these steps:
