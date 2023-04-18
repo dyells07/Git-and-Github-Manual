@@ -10,7 +10,7 @@ To clone the repository and run the project, follow these steps:
 3. Navigate to folder`cd NET-CENTRIC-COMPUTING-CSIT2076`
 4. Create a new folder using the command `mkdir <folder_name>`.
 5. Navigate to the new folder using the command `cd <folder_name>`.
-6. Open Visual Studio Code using the command `code .`.
+6. Open Visual Studio Code using the command `code .`
 7. Install the C# extensions if needed.
 8. In the integrated terminal, enter the command `dotnet new console` to create a new C# file.
 9. Enter the command `dotnet restore` to restore the project dependencies.
